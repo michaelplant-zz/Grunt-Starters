@@ -1,0 +1,16 @@
+{
+  "name": "npiav-childtheme",
+  "version": "1.0.0",
+  "description": "NPI AV - wordpress theme for Keith",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Plant",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-ftp-deploy": "^0.1.9"
+  }
+}
